@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "ecommerce_analysis",
+            "database": "ecommerce_analysis",
+            "username": "postgres"
+        }
+    ]
+}
