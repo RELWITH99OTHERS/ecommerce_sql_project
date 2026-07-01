@@ -354,7 +354,7 @@ WHERE
 
 * **Setup:** Maps out how the analytic filter structurally separates the catalog. It visualizes the entire warehouse inventory entering a split structural sorting pipe, keeping only the highly essential threshold tiers for the executive pricing report.
 
-## 📈 Question 6: Customer Purchase Interval & Churn Analysis
+## 📊 Question 6: Customer Purchase Interval & Churn Analysis
 
 ### 1. Executive Summary
 This analysis tracks the chronological time gaps between consecutive customer purchases to map behavior, pinpoint when users slip into churn risk, and identify ultra-loyal segments. By isolating these intervals, the business can shift from generic marketing to automated, time-triggered retention campaigns.
